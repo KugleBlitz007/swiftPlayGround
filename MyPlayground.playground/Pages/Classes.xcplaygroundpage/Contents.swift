@@ -7,6 +7,7 @@ class ScreenViewModel {
 	
 	let title: String //= ""
 	private(set) var showButton: Bool //= false
+	//Also private(set) means we can get the variable outside the function but we cannot set it
 	
 	// We don't need an init if we have put default values in the variables
 	

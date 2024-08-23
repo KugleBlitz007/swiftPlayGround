@@ -12,5 +12,6 @@
         <page name='Struct'/>
         <page name='Enums'/>
         <page name='Classes'/>
+        <page name='Access Control'/>
     </pages>
 </playground>
